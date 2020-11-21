@@ -7,3 +7,6 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 1) Data Engineering
 2) Data Analysis
 
+![Test Image 1](https://github.com/howellva/sql-challenge/blob/main/EmployeeSQL/SQL%20QDB%20pic.png)
+
+
